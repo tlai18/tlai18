@@ -8,7 +8,7 @@
 
 I’m a **Computer Science student at Tufts University**, graduating in May 2025 with a strong academic foundation and hands-on experience in software engineering. I specialize in full-stack development and have a passion for creating innovative, user-friendly applications that solve real-world problems.  
 
-**Fun Fact:** I’ve worked on projects ranging ... to music recommendation apps powered by facial emotion recognition!  
+**Fun Fact:** I’ve worked on projects ranging from secure firewall management systems to music recommendation apps powered by facial emotion recognition!
 
 ---
 
@@ -72,4 +72,4 @@ A unique tool to compress images by transforming color spaces and eliminating re
 
 📧 Email: [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu)  
 🔗 LinkedIn: [linkedin.com/in/t-lai/](https://linkedin.com/in/t-lai/)  
-🌐 GitHub: [github.com](https://github.com/tlai18)  
+🌐 GitHub: [github.com/tlai18](https://github.com/tlai18)  
