@@ -27,12 +27,17 @@ I’m a **Computer Science student at Tufts University**, graduating in May 2025
 
 ## 🛠️ Projects  
 
-### **[JumboShare](https://github.com/)**  
+### **[TTS Firewall Management System](https://github.com/tlai18/tts-capstone)**  
 **React Native, Node.js, MongoDB**  
+A secure web interface for managing Tufts Technology Services firewall rules.
+- Developed features such as dynamic rule modification, real-time updates, and database integration to enhance functionality and user experience.
+
+### **[JumboShare](https://github.com/](https://github.com/tlai18/JumboShare))**  
+**React native, NodeJ/Express, PostgreSQL**  
 A meal swipe exchange platform for students to optimize meal swipe usage.  
 - Developed a seamless exchange feature for efficient transactions among users.  
 
-### **[FaceTracks](https://github.com/)**  
+### **[FaceTracks](https://github.com/locmai1/facetracks)**  
 **Affectiva SDK, Spotify API, Node.js**  
 An innovative music recommendation app that uses facial emotion recognition to suggest songs.  
 - Integrated Spotify API for secure authentication and personalized song selection.  
