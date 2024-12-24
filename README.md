@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thomas Lai
 
-📍 Boston, MA | 📧 [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu) | 🔗 [LinkedIn](https://linkedin.com/in/t-lai/) | 🌐 [GitHub](https://github.com/)  
+📍 Boston, MA | 📧 [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu) | 🔗 [LinkedIn](https://linkedin.com/in/t-lai/) | 🌐 [GitHub](https://github.com/tlai18)  
 
 ---
 
@@ -67,4 +67,4 @@ A unique tool to compress images by transforming color spaces and eliminating re
 
 📧 Email: [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu)  
 🔗 LinkedIn: [linkedin.com/in/t-lai/](https://linkedin.com/in/t-lai/)  
-🌐 GitHub: [github.com](https://github.com/)  
+🌐 GitHub: [github.com](https://github.com/tlai18)  
