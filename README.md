@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Thomas Lai
+#  Hi, I'm Thomas Lai
 
-📍 Boston, MA | 📧 [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu) | 🔗 [LinkedIn](https://linkedin.com/in/t-lai/) | 🌐 [GitHub](https://github.com/tlai18)  
+Boston, MA | [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu) | 🔗 [LinkedIn](https://linkedin.com/in/t-lai/) | 🌐 [GitHub](https://github.com/tlai18)  
 
 ---
 
-## 👨‍🎓 About Me  
+##  About Me  
 
 I’m a **Computer Science student at Tufts University**, graduating in May 2025 with a strong academic foundation and hands-on experience in software engineering. I specialize in full-stack development and have a passion for creating innovative, user-friendly applications that solve real-world problems.  
 
@@ -12,7 +12,7 @@ I’m a **Computer Science student at Tufts University**, graduating in May 2025
 
 ---
 
-## 💻 Skills  
+## Skills  
 
 ### **Technologies:**  
 - Frontend: ReactJS, NextJS, React Native, Tailwind  
@@ -25,7 +25,7 @@ I’m a **Computer Science student at Tufts University**, graduating in May 2025
 
 ---
 
-## 🛠️ Projects  
+## Projects  
 
 ### **[TTS Firewall Management System](https://github.com/tlai18/tts-capstone)**  
 **React Native, Node.js, MongoDB**  
@@ -49,7 +49,7 @@ A unique tool to compress images by transforming color spaces and eliminating re
 
 ---
 
-## 💼 Experience  
+## Experience  
 
 ### **Technical Lead, JumboCode (The Lantern)**  
 **September 2023 - May 2024**  
@@ -66,9 +66,9 @@ A unique tool to compress images by transforming color spaces and eliminating re
 
 ---
 
-## 🚀 Let’s Connect  
+## Let’s Connect  
 
-🌱 I’m always eager to learn and collaborate on impactful projects. Check out my repositories to see what I’m working on or reach out for collaboration opportunities!  
+I’m always eager to learn and collaborate on impactful projects. Check out my repositories to see what I’m working on or reach out for collaboration opportunities!  
 
 📧 Email: [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu)  
 🔗 LinkedIn: [linkedin.com/in/t-lai/](https://linkedin.com/in/t-lai/)  
