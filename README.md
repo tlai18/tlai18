@@ -1,12 +1,12 @@
 #  Hi, I'm Thomas Lai
 
-Boston, MA | [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu) | [LinkedIn](https://linkedin.com/in/t-lai/) | [GitHub](https://github.com/tlai18)  
+Boston, MA | [lai.thomas011@gmail.com](mailto:lai.thomas011@gmail.com) | [LinkedIn](https://linkedin.com/in/t-lai/) | [GitHub](https://github.com/tlai18)  
 
 ---
 
 ##  About Me  
 
-I’m a **Computer Science student at Tufts University**, graduating in May 2025 with a strong background in software engineering. I specialize in full-stack development and have a passion for creating innovative, user-friendly applications that solve real-world problems.  
+I’m a **Computer Science student at Tufts University**, graduating in May 2025 with a strong background in software engineering. I specialize in full-stack development and have a passion for user-friendly applications that solve real-world problems.  
 
 ---
 
@@ -66,8 +66,8 @@ A unique tool to compress images by transforming color spaces and eliminating re
 
 ## Let’s Connect  
 
-I’m always eager to learn and collaborate on impactful projects. Check out my repositories to see what I’m working on or reach out for collaboration opportunities!  
+I’m always excited to learn and collaborate on impactful projects. Check out my repositories to see what I’m working on or reach out for collaboration opportunities!  
 
-Email: [Thomas.lai@tufts.edu](mailto:Thomas.lai@tufts.edu)  
+Email: [lai.thomas011@gmail.com](mailto:lai.thomas011@gmail.com)  
 LinkedIn: [linkedin.com/in/t-lai/](https://linkedin.com/in/t-lai/)  
 GitHub: [github.com/tlai18](https://github.com/tlai18)  
